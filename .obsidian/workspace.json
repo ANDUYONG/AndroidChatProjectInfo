@@ -4,21 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "cca0079ccd9efc94",
+        "id": "03735fedbb89eeb5",
         "type": "tabs",
         "children": [
           {
-            "id": "33512802a08df957",
+            "id": "ad8bafe63de852a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "3. 스토리보드.canvas",
+                "viewState": {
+                  "x": -915.0091205189638,
+                  "y": -2115.7540357665316,
+                  "zoom": -2.333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "3. 스토리보드"
+            }
+          },
+          {
+            "id": "e35f15defaa2daff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UI/로그인.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "로그인"
+            }
+          },
+          {
+            "id": "9e770ec6c4aee957",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3. 스토리보드.canvas",
+                "viewState": {
+                  "x": -1260,
+                  "y": -1822.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "3. 스토리보드"
             }
           }
         ]
@@ -162,11 +194,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33512802a08df957",
+  "active": "0d882002bad3e745",
   "lastOpenFiles": [
+    "UI/로그인.md",
+    "3. 스토리보드.canvas",
+    "UI/회원가입.md",
+    "UI/오픈 화면.md",
+    "2. 기능.md",
+    "UI/친구 목록 화면.md",
+    "UI/채팅방 멀티미디어 업로드.md",
+    "UI/채팅방 만들기 화면.md",
+    "Untitled.md",
+    "1. 목적.md",
+    "UI/프로필 상세.md",
+    "KakaoTalk_20250309_201448848.jpg",
+    "UI/프로필 편집.md",
+    "UI/채팅방 설정 화면.md",
+    "UI/채팅 목록 화면.md",
+    "UI/채팅방 친구 추가.md",
+    "UI/친구 추가 화면.md",
+    "UI/채팅방 화면.md",
+    "README.md",
+    "UI/Untitled",
+    "UI/Untitled.md",
+    "Excalidraw/Drawing 2025-07-22 11.55.03.excalidraw.md",
+    "Excalidraw",
+    "UI/Untitled.canvas",
+    "3. 화면설계/Untitled",
+    "UI",
+    "Untitled 1.md",
+    "3. 화면설계.md",
+    "기능/Untitled.md",
+    "기능",
     "readme.txt.txt",
     "새 텍스트 문서.txt",
     "Welcome.md"
