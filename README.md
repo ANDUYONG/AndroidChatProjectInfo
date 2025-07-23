@@ -15,7 +15,7 @@
 	
 	빌드툴: gradle
 	
-	ide: Android Studio Electric Eel (2022.1.1) 이하 버전
+	ide: Android Studio 최신버전
 	
 	에뮬레이터: Android Virtual Device (API 26~28)
 	
