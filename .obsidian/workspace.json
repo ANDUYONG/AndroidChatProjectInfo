@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 현황/3. 서비스 로직 개발 현황 (Firebase적용 후).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 서비스 로직 개발 현황 (Firebase적용 후)"
+              "title": "README"
             }
           }
         ]
@@ -168,17 +168,17 @@
   },
   "active": "d5e915f9fe193337",
   "lastOpenFiles": [
-    "개발 현황/2. 서비스 로직 개발 현황 (Firebase 적용전).md",
-    "4. 스키마 설계.canvas",
     "개발 현황/3. 서비스 로직 개발 현황 (Firebase적용 후).md",
+    "4. 스키마 설계.canvas",
+    "2. 기능.md",
     "Insite/NoSql vs Rdbms.md",
+    "개발 현황/4. 고도화 기능.md",
+    "개발 현황/2. 서비스 로직 개발 현황 (Firebase 적용전).md",
     "README.md",
     "KakaoTalk_20250309_201448848.jpg",
     "5. 개발환경.md",
     "3. 스토리보드.canvas",
-    "2. 기능.md",
     "1. 목적.md",
-    "개발 현황/4. 고도화 기능.md",
     "_ViewModel/@ LiveData - observe().md",
     "_ViewModel/@ LiveData.md",
     "_ViewModel/@ ViewModelProvider.md",
