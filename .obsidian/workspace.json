@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발 현황/3. 서비스 로직 개발 현황 (Firebase적용 후).md",
+                "file": "프로젝트 관리방향/2025-08-07 다시 계획.....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 서비스 로직 개발 현황 (Firebase적용 후)"
+              "title": "2025-08-07 다시 계획...."
             }
           }
         ]
@@ -168,12 +168,18 @@
   },
   "active": "d5e915f9fe193337",
   "lastOpenFiles": [
-    "README.md",
-    "개발 현황/3. 서비스 로직 개발 현황 (Firebase적용 후).md",
     "4. 스키마 설계.canvas",
+    "프로젝트 관리방향/2025-08-07 다시 계획.....md",
+    "개발 현황/4. 채팅 기능 Step1.md",
+    "_TODO/2025-08-08.md",
+    "개발 현황/Untitled.md",
+    "_TODO",
+    "개발 현황/5. 채팅 기능 Step2.md",
+    "개발 현황/3. 서비스 로직 개발 현황 (Firebase적용 후).md",
+    "개발 현황/999. 고도화 기능.md",
+    "README.md",
     "2. 기능.md",
     "Insite/NoSql vs Rdbms.md",
-    "개발 현황/4. 고도화 기능.md",
     "개발 현황/2. 서비스 로직 개발 현황 (Firebase 적용전).md",
     "KakaoTalk_20250309_201448848.jpg",
     "5. 개발환경.md",
@@ -192,11 +198,6 @@
     "프로젝트 관리방향/2025-07-24, 그럼에도 불구하고 고민 또 고민,,,.md",
     "프로젝트 관리방향/2025-07-23, 일정 산정을 하려면....md",
     "프로젝트 관리방향/2025-07-22, 설계 방향.md",
-    "프로젝트 관리방향/2025-07-25, 비교적 순항 중....md",
-    "_Basic/@ Intent.md",
-    "_Basic/@ Activity Stack.md",
-    "_Basic/@ Activity.md",
-    "_Basic/SharedPreferences.md",
     "study/Lifecycle",
     "_Basic",
     "개발 현황",
@@ -205,7 +206,6 @@
     "Excalidraw",
     "Insite",
     "프로젝트 관리방향",
-    "UI/Untitled",
     "UI/Untitled.canvas"
   ]
 }
